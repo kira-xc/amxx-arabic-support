@@ -29,10 +29,10 @@ It fixes issues where Arabic characters appear reversed or broken, making the ch
 
 
 ## Screenshots:
-**Preview**
-<img src="https://i.ibb.co/B52dvy6n/gfgf.png" alt="Sample Image" width="700">
-<img src="https://i.ibb.co/mrH9DF1G/jjjjj.png" alt="Sample Image" width="700">
-<img src="https://i.ibb.co/pvDgB90w/kkkk.png" alt="Sample Image" width="700">
+### Preview
+<img src="https://i.ibb.co/B52dvy6n/gfgf.png" alt="Sample Image" width="700" align="center">
+<img src="https://i.ibb.co/mrH9DF1G/jjjjj.png" alt="Sample Image" width="700" align="center">
+<img src="https://i.ibb.co/pvDgB90w/kkkk.png" alt="Sample Image" width="700" align="center">
 
 
 > **Note:** This plugin only adjusts text display. It does not affect gameplay or server performance.
