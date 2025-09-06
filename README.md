@@ -66,18 +66,17 @@ client_print(0,print_chat,"%s",text)
 - متوافق مع معظم إصدارات AMX Mod X  
 - خفيف وسهل الاستخدام  
 
-**طريقة التثبيت:**
-1. قم بتحميل ملف الملحق (.amxx)  
-2. ضع الملف داخل مجلد *plugins*  
-3. أضف اسمه داخل ملف *plugins.ini*  
-4. أعد تشغيل الخادم (server)  
-
 **مثال:** أضف السطر التالي في **plugins.ini** قبل **adminchat.amxx**  
 `; Chat / Messages ` \
 **`arabic_supporter.amxx `**\
 `adminchat.amxx		; console chat commands ` \
 `antiflood.amxx		; prevent clients from chat-flooding the server ` 
 
+**طريقة التثبيت:**
+1. قم بتحميل ملف الملحق (.amxx)  
+2. ضع الملف داخل مجلد *plugins*  
+3. أضف اسمه داخل ملف *plugins.ini*  
+4. أعد تشغيل الخادم (server)  
 
 ## صور توضيحية:
 ### معاينة
