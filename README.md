@@ -3,7 +3,9 @@
 This plugin provides full Arabic language support in AMX Mod X servers.  
 It fixes issues where Arabic characters appear reversed or broken, making the chat more readable for Arabic-speaking players.
 
-
+## Requirements
+- amxmodx 1.9 or up [amxmodx dev](https://www.amxmodx.org/downloads-new.php)
+- [amxmodx 1.9 or up from amxxdrop](https://www.amxmodx.org/amxxdrop/)
 **Features:**
 ```
 - Proper display of Arabic text in chat  
