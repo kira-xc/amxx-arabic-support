@@ -38,3 +38,20 @@ It fixes issues where Arabic characters appear reversed or broken, making the ch
 > **Note:** This plugin only adjusts text display. It does not affect gameplay or server performance.
 
 ### If you find this useful, feel free to share feedback or report any issues.
+
+## api pawn amxx (optional)
+```pawn
+#include <arabic_support_x>
+...
+new text[]="اهلا بك"
+if(is_arabic_text(text)){
+    client_print(0,print_chat,"is arab")
+}
+else{
+    client_print(0,print_chat,"is not arab")
+}
+....
+new text[]="اهلا بك"
+arabic_fix_text(text)
+client_print(0,print_chat,"%s",text)
+```
