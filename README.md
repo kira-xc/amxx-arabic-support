@@ -6,8 +6,8 @@ It fixes issues where Arabic characters appear reversed or broken, making the ch
 ## Requirements :
 - metamod 
 - amxmodx 1.9 or up
-    - [amxmodx dev](https://www.amxmodx.org/downloads-new.php)
-    - [from amxxdrop](https://www.amxmodx.org/amxxdrop/)
+    - Download [amxmodx dev](https://www.amxmodx.org/downloads-new.php)
+    - Download [from amxxdrop](https://www.amxmodx.org/amxxdrop/)
 ## Features:
 ```
 - Proper display of Arabic text in chat  
