@@ -19,7 +19,7 @@ It fixes issues where Arabic characters appear reversed or broken, making the ch
 4. Restart your server  
 
 
-### // Example: add this line to **plugins.ini** before **adminchat.amxx** 
+**Example:** add this line to **plugins.ini** before **adminchat.amxx** 
 
 >    ; Chat / Messages \
 > \
