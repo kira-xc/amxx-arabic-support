@@ -20,10 +20,12 @@ It fixes issues where Arabic characters appear reversed or broken, making the ch
 
 
 >    // Example: add this line to plugins.ini before **adminchat.amxx** \
+> \
 >    ; Chat / Messages \
+> \
 >    **arabic_supporter.amxx** \
 >    adminchat.amxx		; console chat commands \
->    antiflood.amxx		; prevent clients from chat-flooding the server \
+>    antiflood.amxx		; prevent clients from chat-flooding the server 
 
 
 ## Screenshots:
