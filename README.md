@@ -33,6 +33,7 @@ It fixes issues where Arabic characters appear reversed or broken, making the ch
 ![https://i.ibb.co/B52dvy6n/gfgf.png](https://i.ibb.co/B52dvy6n/gfgf.png)
 ![https://i.ibb.co/mrH9DF1G/jjjjj.png](https://i.ibb.co/mrH9DF1G/jjjjj.png)
 ![https://i.ibb.co/pvDgB90w/kkkk.png](https://i.ibb.co/pvDgB90w/kkkk.png)
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" width="400" height="300">
 
 > **Note:** This plugin only adjusts text display. It does not affect gameplay or server performance.
 
