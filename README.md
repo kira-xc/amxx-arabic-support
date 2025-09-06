@@ -66,7 +66,7 @@ client_print(0,print_chat,"%s",text)
 
 ## المتطلبات:
 - الميتا مود metamod 
--ال amxmodx 1.9 او اصدار اعلى 
+- ال amxmodx 1.9 او اصدار اعلى 
     - التحميل من [amxmodx dev](https://www.amxmodx.org/downloads-new.php)
     - التحميل من [from amxxdrop](https://www.amxmodx.org/amxxdrop/)
 
