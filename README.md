@@ -18,20 +18,20 @@ It fixes issues where Arabic characters appear reversed or broken, making the ch
 4. Restart your server  
 
 ```
-    // Example: add this line to plugins.ini before **adminchat.amxx**
+    // Example: add this line to plugins.ini before _adminchat.amxx_
     ; Chat / Messages
-    **arabic_supporter.amxx**
+    _arabic_supporter.amxx_
     adminchat.amxx		; console chat commands
     antiflood.amxx		; prevent clients from chat-flooding the server
 ``` 
 
-**Screenshots:**
+## Screenshots:
 **Preview**
-![https://i.ibb.co/B52dvy6n/gfgf.png](https://i.ibb.co/B52dvy6n/gfgf.png)
-![https://i.ibb.co/mrH9DF1G/jjjjj.png](https://i.ibb.co/mrH9DF1G/jjjjj.png)
-![https://i.ibb.co/pvDgB90w/kkkk.png](https://i.ibb.co/pvDgB90w/kkkk.png)
+![https://i.ibb.co/B52dvy6n/gfgf.png](https://i.ibb.co/B52dvy6n/gfgf.png =250x)
+![https://i.ibb.co/mrH9DF1G/jjjjj.png](https://i.ibb.co/mrH9DF1G/jjjjj.png =250x)
+![https://i.ibb.co/pvDgB90w/kkkk.png](https://i.ibb.co/pvDgB90w/kkkk.png =250x)
 ```
-**Note:** This plugin only adjusts text display. It does not affect gameplay or server performance.
+_Note:_ This plugin only adjusts text display. It does not affect gameplay or server performance.
 ```
 
-## If you find this useful, feel free to share feedback or report any issues.
+### If you find this useful, feel free to share feedback or report any issues.
